@@ -1,3 +1,8 @@
-# Icon generation
+# Focutron (alpha)
 
-https://iconverticons.com/online/
+An app to display google assistant timers on your desktop.
+
+### Tools used
+
+- [Electron](https://electronjs.org)
+- [iconverticons](https://iconverticons.com/online/)
