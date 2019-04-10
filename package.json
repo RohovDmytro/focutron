@@ -1,0 +1,30 @@
+{
+  "name": "focutron",
+  "version": "0.0.1",
+  "description": "Google Assistant timers on your desktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . Focutron --overwrite --icon=assets/icons/mac/icon.icns --out=build"
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "smart",
+    "home"
+  ],
+  "author": "RG",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "4.0.4"
+  },
+  "dependencies": {
+    "cron": "1.6.0",
+    "electron-packager": "13.0.1",
+    "local-devices": "1.1.1",
+    "lodash": "4.17.11",
+    "moment": "2.24.0",
+    "suncalc": "1.8.0",
+    "winston": "3.2.1"
+  }
+}
