@@ -2,12 +2,13 @@
 
 An app to display google assistant timers on your desktop.
 
-### Build for your platform
+### Build for yourself
 
 - Download source code
-- `yarn`
-- `yarn global add electron-packager`
-- `yarn build`
+- Put a mac address of your google home assistant into `config.js`
+- Run `yarn`
+- Run `yarn global add electron-packager`
+- Run `yarn build`
 
 ### Tools used
 
