@@ -17,12 +17,12 @@
   "author": "RG",
   "license": "MIT",
   "devDependencies": {
-    "electron": "4.0.4"
+    "electron": "4.1.4"
   },
   "dependencies": {
-    "cron": "1.6.0",
-    "electron-packager": "13.0.1",
-    "local-devices": "1.1.1",
+    "cron": "1.7.0",
+    "electron-packager": "13.1.1",
+    "local-devices": "2.0.0",
     "lodash": "4.17.11",
     "moment": "2.24.0",
     "suncalc": "1.8.0",
