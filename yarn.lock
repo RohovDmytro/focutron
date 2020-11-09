@@ -796,10 +796,10 @@ load-json-file@^2.0.0:
     pify "^2.0.0"
     strip-bom "^3.0.0"
 
-local-devices@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/local-devices/-/local-devices-2.0.0.tgz#27dadd18a6aa1e1259336bfaa4d1562f799a65a3"
-  integrity sha512-1dGpXIy/ZrI3edVVGQ047HKEjGQbiYQnfSKhtmT1y4QgMWg9eavL5qxM5IqgbCTL6frkW4wA49WHLKAjzFo46Q==
+local-devices@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/local-devices/-/local-devices-3.0.0.tgz#88b4101963549850ab926d598b23c30b5eb60bb4"
+  integrity sha512-pu4Ma/WfhGRMs+h7V1VLGE0LxU8TKMQFCJKZIVBZrUqbWB1ZBSdd4wRbEmKMw/S4/Sq/5NRv7ht9PC4XNts4mQ==
   dependencies:
     ip "^1.1.5"
     mz "^2.7.0"
