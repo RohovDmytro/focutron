@@ -17,7 +17,7 @@
   "author": "RG",
   "license": "MIT",
   "devDependencies": {
-    "electron": "4.1.4"
+    "electron": "15.5.5"
   },
   "dependencies": {
     "cron": "1.7.0",
